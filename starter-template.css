@@ -1,0 +1,27 @@
+body {
+  padding-top: 5rem;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 400;
+  background: rgba(244, 242, 239, 0.5);
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1, .subtitle {
+  color: #49433e;
+  font-size: 24px;
+  font-family: 'Open Sans', sans;
+  font-weight: 400;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  display: block;
+}
+.subtitle {
+  color: #918b86;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
